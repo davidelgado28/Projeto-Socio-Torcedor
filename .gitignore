@@ -1,1 +1,16 @@
+# Ambiente virtual
+.venv/
+venv/
 
+# Segredos
+.env
+
+# Gerados pelo Reflex 
+.web/
+.reflex/
+uploaded_files/
+
+# Python
+__pycache__/
+*.py[cod]
+*.db
